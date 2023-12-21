@@ -1,4 +1,3 @@
-// script.js
 
 fetch('data.json')
     .then(response => response.json())
