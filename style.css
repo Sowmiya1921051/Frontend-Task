@@ -13,5 +13,9 @@ th, td {
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #624efb;
+}
+
+.blood-group-summary {
+    margin-top: 20px;
 }
